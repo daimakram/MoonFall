@@ -1,0 +1,15 @@
+Project Log 
+
+Date:    12/22/2022 7:31:50 PM 
+OS:      Microsoft Windows NT 10.0.22621.0 
+Machine: DAIM 
+IP:      success,Pakistan,PK,PB,Punjab,Lahore,54000,31.5826,74.3276,Asia/Karachi,TRANSWORLD ASSOCIATES (PVT) LIMITED,TW RO,AS38193 Transworld Associates (Pvt.) Ltd.,110.93.234.10
+User:    Pakistan 
+Folder:  O:\CG-proj 
+
+Date:    12/22/2022 7:33:05 PM 
+OS:      Microsoft Windows NT 10.0.22621.0 
+Machine: DAIM 
+IP:      success,Pakistan,PK,PB,Punjab,Lahore,54000,31.5204,74.3587,Asia/Karachi,Pakistan Telecommuication company limited,,AS9557 Paknet Limited Merged into PTCL,221.120.220.12
+User:    Pakistan 
+Folder:  O:\CG-proj 
